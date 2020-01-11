@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.roujutsugestioneprevalle" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Roujutsu Gestione Prevalle</name>
+<widget id="com.roujutsugestionevallio" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Roujutsu Gestione Vallio</name>
     <description>
-        Applicazione per gestire l'asd Yoshitaka Arti Marziali Prevalle
+        Applicazione per gestire l'asd Yoshitaka Arti Marziali Vallio Terme
     </description>
     <author email="tesserevlk@roujutsu.it" href="https://roujutsu.it">
         Gallina Roberto
     </author>
-    <content src="https://www.roujutsu.it/app/myasd/1/app-home" />
+    <content src="https://www.roujutsu.it/app/myasd/2/app-home" />
     <plugin name="cordova-plugin-whitelist" spec="1" />
 	<access origin="*" launch-external="no"/>
 	<allow-navigation href="http://*/*" />
