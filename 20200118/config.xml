@@ -9,6 +9,7 @@
     </author>
     <content src="https://www.roujutsu.it/app/myasd/2/app-home" />
     <plugin name="cordova-plugin-whitelist" spec="1" />
+	<plugin name="cordova-plugin-headercolor"	/>
 	<access origin="*" launch-external="no"/>
 	<allow-navigation href="http://*/*" />
 	<allow-navigation href="https://*/*" />
