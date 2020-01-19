@@ -19,7 +19,7 @@
 	<preference name="android-minSdkVersion" value="10" />
 	<preference name="android-targetSdkVersion" value="28" />
 	<preference name="HeaderColor" value="#ff2626" />
-	<preference name="StatusBarBackgroundColor"/>
+	<preference name="StatusBarBackgroundColor" value="#ff9292" />
 	
 	<platform name="ios">
 		<icon src="res/icon/ios/icon-1024.png" width="1024" height="1024"/>
